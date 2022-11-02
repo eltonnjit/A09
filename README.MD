@@ -38,6 +38,7 @@
           </p>
         </footer>
         </body>
+	    </html>
 	
 	/* the styles for the elements */
 * {
